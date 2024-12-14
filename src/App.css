@@ -1,0 +1,21 @@
+ li{
+   list-style: none;
+   padding-top: 1rem;
+ }
+ link{
+    text-decoration: none;
+ }
+ .about{
+ position: relative;
+ right: 2rem;
+ }
+
+ img{
+   max-width: 200px;
+   height: auto;
+ }
+ .navbar{
+   height: 100px;
+   padding-left: 1rem;
+   padding-right: 1rem;
+ }
