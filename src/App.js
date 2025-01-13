@@ -6,6 +6,7 @@ import Navbar from "./Composents/Navbar"; // Correct import for Navbar
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom"; // Correct imports from 'react-router-dom'
 import Store from "./Composents/Store";
  
+ 
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
          
         </Routes>
       </Router>
+
     </div>
   );
 }

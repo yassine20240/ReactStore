@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const Navbar = () => {
   return (
     <>
-      <nav   className="navbar bg-primary   d-flex justify-content-between align-items-center  ">
+      <nav   className="navbar bg-primary   d-flex justify-content-between align-items-center ps-5 pe-5 ">
         <h1  className=" px-5">Store casa </h1>
         <ul className="   d-flex  ">
           <li>
